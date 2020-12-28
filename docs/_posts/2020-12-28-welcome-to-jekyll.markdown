@@ -14,7 +14,7 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
-![Alt text](../../../../../../../photoes/test_tmp.jpg)
+![Alt text](https://raw.githubusercontent.com/zhuyoucui0909/zhuyoucui0909.github.io/main/docs/photoes/test_tmp.jpg)
 
 {% highlight ruby %}
 def print_hi(name)
