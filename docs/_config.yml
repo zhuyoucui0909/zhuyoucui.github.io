@@ -28,7 +28,7 @@ twitter_username: zhuyoucui0909
 #github_username:  zhuyoucui0909
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
