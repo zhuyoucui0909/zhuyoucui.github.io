@@ -1,0 +1,6 @@
+
+#start locally
+ bundle exec jekyll serve
+#visit your local starts
+http://127.0.0.1:4000/
+
